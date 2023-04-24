@@ -1,0 +1,116 @@
+{
+  "response": {
+    "data": {
+      "proposer_details": {
+        "title": "MR",
+        "first_name": "Vijay",
+        "last_name": "Arora",
+        "mobile_number": ": -/7983608152/",
+        "phone_number": null,
+        "email": ": abhshek invest@yahoo.co.in",
+        "dob": null,
+        "gender": null,
+        "pan": null,
+        "aadhar": null,
+        "address": ": C-251,SHADANA COLONY,BAREILLY Bareilly,Bareilly,Uttar Pradesh- 243005",
+        "pin-code": null,
+        "state": null,
+        "city": null,
+        "height_in_cms": null,
+        "weight": null,
+        "expiry_policy_product_name": "ASTAR Healt Star Health and Allied Insurance Company Limited he Heaith insu Family Health Optima Insurance Plan",
+        "expiry_policy_product_id": "SHAHLIP22030V062122",
+        "eia_account_number": null,
+        "eia_account_repository_name": null,
+        "proposer_gstin": "-"
+      },
+      "nominee_details": [
+        {
+          "nominee_name": "RUCHIARORA",
+          "nominee_relation": "Spouse",
+          "nominee_age": "40",
+          "nominee_share": "100"
+        }
+      ],
+      "policy_and_coverage_details": {
+        "policy_type": "Floater",
+        "policy_term": null,
+        "policy_product_name": "ASTAR Healt Star Health and Allied Insurance Company Limited he Heaith insu Family Health Optima Insurance Plan",
+        "policy_product_id": "SHAHLIP22030V062122",
+        "policy_number": ": P/230000/01/2022/004962",
+        "previous_policy_number": "P/230000/01/2021/004309",
+        "policy_start_date": "31/08/2021",
+        "policy_end_date": "30/08/2022",
+        "floater_basic_sum_insured": 500000,
+        "floater_cumulative_bonus": 215000,
+        "scheme_description": "2ADULT+2CHILD",
+        "optional_coverage_1": null,
+        "optional_coverage_2": null,
+        "optional_coverage_3": null,
+        "optional_coverage_4": null,
+        "optional_coverage_5": null
+      },
+      "insured_details": [
+        {
+          "member_id": "5590242-1",
+          "insured_name": "VIJAY ARORA",
+          "gender": "M",
+          "dob": "02/03/1973",
+          "age": "48",
+          "relationship": "SELF",
+          "declared_ped": "No PED declared",
+          "first_policy_started": "30/07/2016"
+        },
+        {
+          "member_id": "5590242-2",
+          "insured_name": "RUCHIARORA",
+          "gender": "F",
+          "dob": "25/12/1980",
+          "age": "40",
+          "relationship": "SPOUSE",
+          "declared_ped": "No PED declared",
+          "first_policy_started": "30/07/2016"
+        },
+        {
+          "member_id": "5590242-3",
+          "insured_name": "LAVISH ARORA",
+          "gender": "M",
+          "dob": "18/11/2002",
+          "age": "18",
+          "relationship": "DEPENDANT CHILD",
+          "declared_ped": "No PED declared",
+          "first_policy_started": "30/07/2016"
+        },
+        {
+          "member_id": "5590242-4",
+          "insured_name": "ANSHIKA ARORA",
+          "gender": "F",
+          "dob": "10/12/2004",
+          "age": "16",
+          "relationship": "DEPENDANT CHILD\"",
+          "declared_ped": "No PED declared",
+          "first_policy_started": "30/07/2016"
+        }
+      ],
+      "seller_details": {
+        "seller_type": null,
+        "seller_name": null,
+        "seller_contact_number": "7983608152/7983608152",
+        "seller_email_id": "swastianju2503@ gmail.com",
+        "seller_gstin": null,
+        "seller_code": "Intermediary Code: BA0000432071"
+      },
+      "issuing_office_details": {
+        "office_code": ":230000",
+        "office_name": "Zonal Office UP",
+        "office_addresss": "501, 2nd Floor, Lekhraj Market-3, Faizabad Road, Indira Nagar, Lucknow-226016",
+        "office_gstin": ":09AAJCS4517L1ZW"
+      }
+    },
+    "status": "success",
+    "time_to_complete_in_seconds": "5.476402",
+    "filename": "/Documents/1120041002397_1120041002397_doc1_cwfV5dy.pdf",
+    "client_ip": "172.24.0.1"
+  },
+  "api_calls_consumed": "You have consumed 8.12% of API calls."
+}
